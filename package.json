@@ -1,7 +1,6 @@
 {
   "name": "hjl",
   "version": "0.1.0",
-  "homepage": "https://hongjheli.github.io/hj",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.1.0",
